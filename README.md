@@ -4,7 +4,7 @@
 
 <h3>🚀 Skills & Expertise</h3>
 <ul>
-  <li><strong>Frontend:</strong> ReactJS, HTML, CSS, JavaScript</li>
+  <li><strong>Frontend:</strong> ReactJS, HTML, CSS, JavaScript,</li>
   <li><strong>Backend:</strong> Python, Flask</li>
   <li><strong>Databases:</strong> PostgreSQL, MySQL</li>
   <li><strong>Odoo:</strong> Custom module development, ORM, Owl components</li>
@@ -27,8 +27,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 
-<div style="display: flex; gap: 40px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin-ismail&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurdin-ismail&theme=radical&hide_border=false" alt="Nurdin's streak" height="165">
-</div>
 
