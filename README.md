@@ -1,30 +1,24 @@
-<h2>Hi there! 👋</h2>
+# 👋 Hi, I'm Nurdin!
 
-<p>I'm <strong>Nurdin</strong>,a passionate full-stack developer with a love for building both the frontend and backend of web applications. I'm skilled in ReactJS, Python, and various web technologies, creating everything from responsive user interfaces to robust backend systems. Recently, I've decided to dive into the world of Odoo development. I'm excited to explore how my existing knowledge can be leveraged to build powerful business applications within this platform, and I’m eager to learn the ins and outs of Odoo's unique ecosystem.</p>
+I'm a passionate **Odoo Developer and Consultant** with a strong background in full-stack development. I specialize in crafting custom Odoo 18 modules, configuring workflows, and bridging business needs with technical solutions. With expertise in Python, ReactJS, and Odoo's ecosystem, I build scalable, user-friendly applications that streamline business processes. From developing robust backend systems to tweaking front-end interfaces, I love creating tools that make a difference! 🚀
 
-<h3>🚀 Skills & Expertise</h3>
-<ul>
-  <li><strong>Frontend:</strong> ReactJS, HTML, CSS, JavaScript,</li>
-  <li><strong>Backend:</strong> Python, Flask</li>
-  <li><strong>Databases:</strong> PostgreSQL, MySQL</li>
-  <li><strong>Odoo:</strong> Custom module development, ORM, Owl components</li>
-  <li><strong>Others:</strong> Git, Docker, REST APIs</li>
-</ul>
+## 🌟 Skills & Expertise
+- **Odoo Development**: Custom module development, ORM, Owl components, QWeb, XML
+- **Consulting**: Business requirement analysis, module configuration, end-user training, functional demos
+- **Frontend**: ReactJS, HTML, CSS, JavaScript
+- **Backend**: Python, Flask, PostgreSQL, MySQL
+- **Others**: Git, Docker, REST APIs, debugging, performance tuning
 
-<h3>🌱 What I'm Learning</h3>
-<p>I'm currently focused on:</p>
-<ul>
-  <li>Building custom Odoo modules</li>
-  <li>Integrating Odoo with modern frontend frameworks</li>
-  <li>Understanding Odoo's ORM and backend functionalities</li>
-</ul>
+## 🌱 What I'm Working On
+- Building advanced Odoo modules for complex workflows
+- Integrating Odoo with external APIs and modern frontends
+- Enhancing client support through training and performance optimization
+
+## 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
-
-## Languages & Tools
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 
 
